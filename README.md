@@ -7,5 +7,6 @@ A crawling script for [www.dizionario-latino.com](http://www.dizionario-latino.c
 
 - `postBulks.sh` will POST the files in `bulks` to elastichsearch
 
+- `collateWordsAndPUT.fsx` will remove the accents and PUT them to a local server
 ## A word looks like this 
 `{"name":" ăbĕo (v. intr. an.)","link":"/dizionario-latino-italiano.php?lemma=ABEO100"}`
